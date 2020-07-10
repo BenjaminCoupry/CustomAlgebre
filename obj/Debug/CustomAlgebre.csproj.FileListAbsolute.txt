@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\bin\Debug\CustomAlgebre.exe.config
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\bin\Debug\CustomAlgebre.exe
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\bin\Debug\CustomAlgebre.pdb
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\obj\Debug\CustomAlgebre.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\obj\Debug\CustomAlgebre.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\obj\Debug\CustomAlgebre.exe
+C:\Users\benja\source\repos\CustomAlgebre\CustomAlgebre\obj\Debug\CustomAlgebre.pdb
